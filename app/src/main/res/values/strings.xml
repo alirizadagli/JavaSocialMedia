@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">instagram</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="add_post">Add Post</string>
+    <string name="enter_comment">Enter Comment</string>
+    <string name="upload">Upload</string>
+    <string name="select">SELECT IMAGE</string>
+    <string name="user_email">user email</string>
+    <string name="feedimages">feedImages</string>
+    <string name="user_comment">User Comment</string>
+</resources>
